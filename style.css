@@ -36,6 +36,9 @@ p {
          padding-left: 50px;
 }
 
+nav ul li:hover ul{
+    display: block;
+}
 .navbar-brand {
                background-color: rgb(12, 173, 167);
                font-family: times new roman;
